@@ -91,7 +91,7 @@ Two datasets have been collected from Kaggle:
 ![data cleaning process here](https://github.com/asmatahasin/Analysing-Diabetic-Patient-Data-for-Predictive-Healthcare/blob/ca314bbe9e42b99a165a1815af24c32452438955/Database_project/Images/Datacleaning.png)
 
 ## Model Results
-For complete code files, please refer to the [GitHub repository](https://github.com/yourusername/Analysing-Diabetic-Patient-Data-for-Predictive-Healthcare).
+For complete code files, please refer to the [GitHub repository](https://github.com/asmatahasin/Analysing-Diabetic-Patient-Data-for-Predictive-Healthcare/blob/23489e8f99a79cd17b1ef5e98d416cc6f16baa6b/Database_project/database_data_analysis.ipynb).
 
 - **Key Findings:**  
   - Models have been developed to predict which patients are at high risk of poorly controlled diabetes and subsequent hospital readmissions.
