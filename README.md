@@ -135,7 +135,8 @@ Interactive visualizations summarize the core insights:
 
 
 
-## Appendix: SQL Query Optimization and Data Integration
+## Appendix: 
+SQL Query Optimization and Data Integration
 Key elements from the project report include:
 
 - **Attributes Used for Analytics:**  
