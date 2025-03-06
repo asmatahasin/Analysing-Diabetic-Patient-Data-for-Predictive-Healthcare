@@ -21,7 +21,8 @@
 - [Visualizations](#visualizations)
   
 - [Findings and Discussion](#findings-and-discussion)
-- 
+
+- [Appendix](#appendix)
 
 ## Introduction
 This project leverages two large Kaggle datasets to analyze data from diabetic patients. The aim is to develop predictive models that reduce hospital readmissions, lower healthcare costs, and enhance treatment quality for individuals with diabetes. This analysis focuses on key factors such as patient demographics, laboratory test results, medications, and risk factors, paving the way for personalized treatment recommendations.
